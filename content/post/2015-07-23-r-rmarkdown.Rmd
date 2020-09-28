@@ -9,7 +9,7 @@ tags: ["R Markdown", "plot", "regression"]
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
 ```
-
+  
 # Section 1
 ## R Markdown Introduction
 
